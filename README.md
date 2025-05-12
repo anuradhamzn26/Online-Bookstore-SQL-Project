@@ -4,7 +4,7 @@ This SQL project focuses on designing and analyzing a database for an online boo
 # Project Highlights
 
 •	Designed a relational database for an online bookstore
-•	Created normalized tables: Books, Customers, Orders, and Order Details
+•	Created normalized tables:: `Books`, `Customers`, `Orders`, and `OrderDetails`
 •	Inserted realistic sample data to simulate real-world operations
 •	Wrote SQL queries to extract business insights (sales, trends, top customers)
 •	Generated an ER diagram to visualize relationships between tables
@@ -20,7 +20,7 @@ This SQL project focuses on designing and analyzing a database for an online boo
 #  Tools & Technologies
 
 •	SQL (MySQL, PostgreSQL, or SQLite)
-•	DDL, DML, JOIN, GROUP BY, aggregate functions
+• DDL, DML, JOIN, GROUP BY, Aggregate Function
 •	ER diagram tool: [dbdiagram.io](C:\Users\Dell\Downloads\onlinebookstore_erd.png)
 
 
@@ -34,11 +34,16 @@ This SQL project focuses on designing and analyzing a database for an online boo
 
 1. Open MySQL Workbench, PgAdmin, or any SQL editor
 2. Run `onlinebookstore.sql` to create tables and load data
+3. Start exploring with your own SQL queries or use the ones provided
 
+ ER Diagram
+
+![ER Diagram](schema.png)
+  
 #  Feedback & Support
 
 •	Star this repo if you found it useful  
 •	Open an issue to suggest improvements or report bugs  
 •	Fork the project to explore your own version  
-•	Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
+•	Connect with me on [LinkedIn](https://www.linkedin.com/in/anuradha-99213324a/)
 
